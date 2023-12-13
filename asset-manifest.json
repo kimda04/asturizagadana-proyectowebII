@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/asturizagadana-proyectowebII/static/css/main.81391102.css",
+    "main.js": "/asturizagadana-proyectowebII/static/js/main.da850f59.js",
+    "static/js/787.cbf31a84.chunk.js": "/asturizagadana-proyectowebII/static/js/787.cbf31a84.chunk.js",
+    "index.html": "/asturizagadana-proyectowebII/index.html",
+    "main.81391102.css.map": "/asturizagadana-proyectowebII/static/css/main.81391102.css.map",
+    "main.da850f59.js.map": "/asturizagadana-proyectowebII/static/js/main.da850f59.js.map",
+    "787.cbf31a84.chunk.js.map": "/asturizagadana-proyectowebII/static/js/787.cbf31a84.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81391102.css",
+    "static/js/main.da850f59.js"
+  ]
+}
